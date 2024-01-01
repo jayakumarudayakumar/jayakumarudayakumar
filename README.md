@@ -31,14 +31,14 @@ Software – VBA MS Excel | Capacity – Multiple Projects | Domain – Procurem
 •	Before – Manual work for each metrics file > 30 mins; After – VBA Scripted Excel Macro reduced TAT by 75%
 
 ### Professional Experience
-#### Assistant Manager - ERP Competency Center	July 2022 - March 2023
+#### Assistant Manager - ERP Competency Center,	July 2022 - March 2023
 GlaxoSmithKline India Global Services Private Limited, India
 -	Experienced in the functional areas – SAP ERP support to 35+ EMEA markets - Supply Chain Planning and Warehouse Distribution, Master Data Management, Process Optimization, Training and Development
 -	Worked on the significant challenge – A year-long sales and inventory variance between GSK and a third-party logistics provider (3PL) was resolved within 45 days, resulting in a $50,000 impact in the FY'23 records
 -	Recognized with an award from the customer for process excellence in sales and inventory reconciliation
 -	Conducted nine monthly ERP super-user business reviews for EMEA markets and maintained VOC 4.7/5
 -	Delivered supply chain process training to 15+ EMEA market super users and created 10+ knowledge articles
-#### Senior Subject Matter Expert – Global Procurement & Supply Chain	July 2013 - April 2022
+#### Senior Subject Matter Expert – Global Procurement & Supply Chain,	July 2013 - April 2022
 Flextronics Technologies (India) Private Limited – Global Business Services, India
 -	Demonstrated expertise in Procure-to-Pay, Materials and Logistics Management, Supply Planning, Inventory and KPI audit/analysis, Kaizen, Database Management (SOP/SOW/QBR), and Lean & Six Sigma Techniques
 -	Managed procure-to-pay process activities and leveraged EDI feasibility in parallel when one of our internal customers transitioned the ERP system from Oracle 11i (Manual) to Baan V (EDI by 70%)
