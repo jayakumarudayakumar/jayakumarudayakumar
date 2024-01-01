@@ -1,7 +1,7 @@
 👋 Hi, I’m @jayakumarudayakumar <BR>
-👀 I’m interested in supply chain analytics <BR>
-🌱 I’m currently learning R and Python <BR>
-💞️ I’m looking to collaborate on supply chain optimization through data analytics <BR>
+👀 I’m interested in supply chain management, project management, and data analytics <BR>
+🌱 I’m currently learning R, SQL, and Python <BR>
+💞️ I’m looking to collaborate on supply chain optimization projects based on analytics <BR>
 📫 We can connect on https://www.linkedin.com/in/jayakumarmorisudayakumar/ | +1 857 390 5187 | jayakumar.udayakumar@gmail.com <BR>
 
 ### About me:
